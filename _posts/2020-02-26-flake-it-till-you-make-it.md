@@ -31,3 +31,31 @@ tags: [books, test]
             </li>
         </ul>
     </div>
+<div class="resume_item resume_education">
+      <div class="title">
+           <p class="bold">Educación</p>
+         </div>
+      <ul>
+            <li>
+                <div class="date">Escuela Juan la Valle</div> 
+                </div>
+            </li>
+            <li>
+              <div class="date">Universidad Nacional de Chimborazo</div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="resume_item resume_hobby">
+      <div class="title">
+           <p class="bold">Hobby</p>
+         </div>
+       <ul>
+         <li><i class="fas fa-book"></i></li>
+         <li><i class="fas fa-gamepad"></i></li>
+         <li><i class="fas fa-music"></i></li>
+         <li><i class="fab fa-pagelines"></i></li>
+      </ul>
+    </div>
+  </div>
+</div>
