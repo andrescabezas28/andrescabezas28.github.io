@@ -12,8 +12,9 @@ tags: [books, test]
    
    
     
-                                                                                    HOJA DE VIDA
-PERFIL:
+
+Mi PERFIL:
+
 Bachiller en Ciencias, Especialización General, con conocimientos en informática básica, con buena
 s relaciones interpersonales, actitud positiva para trabajar en equipo, con responsabilidad, facilida
 d de aprendizaje, entre otros.
