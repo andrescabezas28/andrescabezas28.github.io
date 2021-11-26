@@ -15,9 +15,9 @@ author: Some Person
 
 navbar-links:
   Andres : "aboutme"
-  Deberes:
+  Tareas:
    
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Deber 1: "https://drive.google.com/file/d/16ex142DXSE8a0vO9L5yKEqSCKO4tclyQ/view?usp=sharing"
   Dueño : "https://deanattali.com"
 
 # --- Logo --- #
